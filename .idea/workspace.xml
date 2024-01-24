@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ecaa9742-941b-47c8-8a61-1b79c65be449" name="Changes" comment="SpringBoot HelloWorld">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ergoausbildung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ergoausbildung/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="f157444f-06b3-4a40-8329-fdb7279e8941" />
-        <option name="url" value="https://github.com/LorenaSeipp/Ausbildung" />
+        <option name="url" value="https://github.com/LorenaSeipp/ergoausbildung" />
       </UrlAndAccount>
     </option>
   </component>
@@ -54,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowCap BigData.ShowToolbar": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Unterwegs/IdeaProjects/FirstSpringBoot/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
@@ -64,11 +65,11 @@
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="de.ergodirekt.Main" />
+      <option name="MAIN_CLASS_NAME" value="de.ergoausbildung.Main" />
       <module name="FirstSpringBoot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.ergodirekt.*" />
+          <option name="PATTERN" value="de.ergoausbildung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706105602898</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SpringBoot HelloWorld">
+      <option name="closed" value="true" />
+      <created>1706106361499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706106361499</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SpringBoot HelloWorld">
+      <option name="closed" value="true" />
+      <created>1706106721908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706106721908</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -138,8 +155,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/de/ergodirekt/Main.java</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/src/main/java/de/ergoausbildung/Main.java</url>
+          <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
