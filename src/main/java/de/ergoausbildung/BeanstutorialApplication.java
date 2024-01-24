@@ -1,7 +1,6 @@
-package de.ergodirekt;
+package de.ergoausbildung;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -17,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class BeanstutorialApplication {
 
     public interface SaySomethingService {
-        public String saySomething();
+        String saySomething();
     }
 
     @Component
